@@ -25,5 +25,7 @@ The European Flights Dataset from 2016 to 2022 provides an extensive record of a
 ## TO DO
 - Mettere il grafico di voli in orizzontale
 - Grafico dei voli con le percentuali sul totale
-- Mostrare il grafico per il covid in mesi
 - cercare areoporti con solo entrate e non uscite (Se presente)
+
+## DONE
+- Mostrare il grafico per il covid in mesi
